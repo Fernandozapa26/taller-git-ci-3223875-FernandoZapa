@@ -1,0 +1,29 @@
+{
+  "name": "taller-git-ci-3223875-fernandozapa",
+  "version": "1.0.0",
+  "description": "��\r\u0000 \u0000",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node --test",
+    "format": "prettier --write .",
+    "format-check": "prettier --check ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernandozapa26/taller-git-ci-3223875-FernandoZapa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fernandozapa26/taller-git-ci-3223875-FernandoZapa/issues"
+  },
+  "homepage": "https://github.com/Fernandozapa26/taller-git-ci-3223875-FernandoZapa#readme",
+  "devDependencies": {
+    "prettier": "^3.7.3"
+  }
+}
