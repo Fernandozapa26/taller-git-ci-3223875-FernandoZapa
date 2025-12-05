@@ -6,13 +6,12 @@
   },
   "name": "taller-git-ci-3223875-fernandozapa",
   "version": "1.0.0",
-  "type":"module",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
- 
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Fernandozapa26/taller-git-ci-3223875-FernandoZapa.git"
@@ -27,5 +26,4 @@
   "devDependencies": {
     "prettier": "^3.7.4"
   }
-  
 }

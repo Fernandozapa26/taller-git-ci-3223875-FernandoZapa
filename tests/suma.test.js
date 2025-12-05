@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-function suma(a,b){
+function suma(a, b) {
   return a + b;
 }
 
